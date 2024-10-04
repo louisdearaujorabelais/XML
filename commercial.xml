@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE CD SYSTEM "commercial.dtd">
+<!DOCTYPE commercial SYSTEM "commercial.dtd">
 <commercial>
     <client nom="Renard" prenom="Nicolas" mail="nrenard@gmail.com" mobile="0699305567">
-    <client nom="Grenapin" prenom="Dorothée" mail="grenapin@ft-group.com" mobile="0299123455">
         <demande>
             <destination>Mexique</destination>
             <periode>Fin mai 2010</periode>
             <duree>7 nuits</duree>
             <nbParticipants>4</nbParticipants>
             <tarifMax>890.00</tarifMax>
-            <propositions>2
+            <propositions>
                 <proposition>Circuit Maya : Yucatan-Cancùn...</proposition>
                 <proposition>Route Turquoise :cascades, temples</proposition>
             </propositions>  
         </demande>
-    </client>      
+    </client>
+    <client nom="Grenapin" prenom="Dorothée" mail="grenapin@ft-group.com" mobile="0299123455">
+    </client>
 </commercial>
